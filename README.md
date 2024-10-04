@@ -1,7 +1,7 @@
 # Search-Algorithms-Depth-First-Search-DFS
 This Python script is designed to solve a maze using the depth-first search (DFS) algorithm. Let’s break it down step by step:
 
-### 1. **Node Class**:
+## 1. **Node Class**:
 - **Node** is a fundamental building block in searching algorithms. Each node represents a single state (or position) in the maze.
 - It stores:
   - `state`: The position of the node in the maze (as coordinates, like `(row, column)`).
