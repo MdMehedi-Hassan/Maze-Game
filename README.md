@@ -1,4 +1,5 @@
-# Search-Algorithms-Depth-First-Search-DFS
+#Maze-Game
+## Search-Algorithms-Depth-First-Search-DFS
 This Python script is designed to solve a maze using the depth-first search (DFS) algorithm. Let’s break it down step by step:
 
 ### 1. **Node Class**:
